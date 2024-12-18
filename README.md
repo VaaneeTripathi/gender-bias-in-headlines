@@ -29,6 +29,12 @@ print(f"Bias prediction: {'Biased' if result['prediction'] else 'Unbiased'}")
 print(f"Confidence: {result['confidence']:.3f}")
 ```
 
+**Example:**
+![image](https://github.com/user-attachments/assets/ff775b61-70ef-4ca5-b407-db44901b9158)
+![image](https://github.com/user-attachments/assets/3c8daea1-71fa-4422-bafc-11c33267755d)
+
+
+
 ## Model Performance
 The system uses two classifiers:
 Text Classifier (SVM):
